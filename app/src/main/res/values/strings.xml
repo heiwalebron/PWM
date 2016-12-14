@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PVM</string>
+    <string name="addBtnText">+</string>
+    <string name="subBtnText">-</string>
+    <string name="fInitValue">1000</string>
+    <string name="frequencyText">Frequency: </string>
+    <string name="pwmPlay">Start</string>
+    <string name="pwmStop">Stop</string>
+    <string name="backButtonText">Back</string>
+</resources>
